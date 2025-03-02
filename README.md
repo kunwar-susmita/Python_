@@ -1,1 +1,1 @@
-# Python_
+# "Python projects related to data science"
